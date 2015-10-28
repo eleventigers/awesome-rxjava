@@ -1,2 +1,39 @@
-# awesome-rxjava
-Useful resources for working with RxJava
+# Awesome RxJava
+
+[<img src="http://reactivex.io/assets/Rx_Logo_S.png" align="right" width="100">](http://reactivex.io/)
+
+> Useful resources for working with [RxJava](https://github.com/ReactiveX/RxJava)
+
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+
+
+## Bindings
+
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Android specific bindings for RxJava.
+* [RxBinding](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android UI widgets from the platform and support libraries.
+* [rx-preferences](https://github.com/f2prateek/rx-preferences) - Reactive `SharedPreferences` for Android.
+* [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava.
+* [SQLBrite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper and ContentResolver which introduces reactive stream semantics to queries.
+* [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) - Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
+* [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork) - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables.
+* [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) - Android library monitoring hardware sensors with RxJava Observables.
+* [RxPalette](https://github.com/hzsweers/RxPalette) - RxJava bindings for the Palette library on Android.
+* [rxjava-jdbc](https://github.com/davidmoten/rxjava-jdbc) - Efficient execution and functional composition of database calls using jdbc and RxJava Observables.
+* [rxjava-file](https://github.com/davidmoten/rxjava-file) - RxJava observables for files including NIO events.
+
+## Utilities
+* [rxjava-extras](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava. 
+
+## Testing
+* [assertj-rx](https://github.com/ribot/assertj-rx) - AssertJ assertions for RxJava Observables.
+
+## Samples
+
+* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
+
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Jokubas Dargis](http://jokubasdargis.net/) has waived all copyright and related or neighboring rights to this work.
