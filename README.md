@@ -26,6 +26,7 @@
 
 ## Testing
 * [assertj-rx](https://github.com/ribot/assertj-rx) - AssertJ assertions for RxJava Observables.
+* [rxpresso](https://github.com/novoda/rxpresso) - Easy Espresso UI testing for Android applications using RxJava.
 
 ## Samples
 
