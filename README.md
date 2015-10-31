@@ -6,7 +6,6 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
-
 ## Bindings
 
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Android specific bindings for RxJava.
@@ -22,6 +21,12 @@
 * [rxjava-file](https://github.com/davidmoten/rxjava-file) - RxJava observables for files including NIO events.
 
 ## Utilities
+* [RxJavaAsyncUtil](https://github.com/ReactiveX/RxJavaAsyncUtil) - Async utilities for RxJava.
+* [RxJavaJoins](https://github.com/ReactiveX/RxJavaJoins) - Joins operators for RxJava.
+* [RxJavaMath](https://github.com/ReactiveX/RxJavaMath) - Math operators for RxJava.
+* [RxJavaString](https://github.com/ReactiveX/RxJavaString) - 
+String and Byte operators for RxJava.
+* [RxJavaComputationExpressions](https://github.com/ReactiveX/RxJavaComputationExpressions) - Computation expressions for RxJava.
 * [rxjava-extras](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava. 
 
 ## Testing
@@ -31,7 +36,6 @@
 ## Samples
 
 * [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
-
 
 ## License
 
