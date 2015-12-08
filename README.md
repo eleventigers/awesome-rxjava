@@ -19,6 +19,7 @@
 * [RxPalette](https://github.com/hzsweers/RxPalette) - RxJava bindings for the Palette library on Android.
 * [rxjava-jdbc](https://github.com/davidmoten/rxjava-jdbc) - Efficient execution and functional composition of database calls using jdbc and RxJava Observables.
 * [rxjava-file](https://github.com/davidmoten/rxjava-file) - RxJava observables for files including NIO events.
+* [RxTuples](https://github.com/pakoito/RxTuples) - Simple tuples to use with RxJava.
 
 ## Utilities
 * [RxJavaAsyncUtil](https://github.com/ReactiveX/RxJavaAsyncUtil) - Async utilities for RxJava.
