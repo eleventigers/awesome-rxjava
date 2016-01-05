@@ -30,6 +30,7 @@ String and Byte operators for RxJava.
 * [RxJavaComputationExpressions](https://github.com/ReactiveX/RxJavaComputationExpressions) - Computation expressions for RxJava.
 * [rxjava-extras](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava.
 * [RxActions](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava.
+* [RxRelay](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and an Action1.
 
 ## Testing
 * [assertj-rx](https://github.com/ribot/assertj-rx) - AssertJ assertions for RxJava Observables.
