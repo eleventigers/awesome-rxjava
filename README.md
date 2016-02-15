@@ -34,6 +34,7 @@ String and Byte operators for RxJava.
 * [Frodo](https://github.com/android10/frodo) - Android Library for Logging RxJava Observables and Subscribers.
 * [RxPartialApplication](https://github.com/pakoito/RxPartialApplication) - Simple partial application for FuncN and ActionN on RxJava.
 * [RxCurrying](https://github.com/pakoito/RxCurrying) - Simple currying for FuncN and ActionN on RxJava.
+* [RxEither](https://github.com/eleventigers/rxeither) - Either type for RxJava.
 
 ## Testing
 * [assertj-rx](https://github.com/ribot/assertj-rx) - AssertJ assertions for RxJava Observables.
