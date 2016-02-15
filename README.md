@@ -32,6 +32,8 @@ String and Byte operators for RxJava.
 * [RxActions](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava.
 * [RxRelay](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and an Action1.
 * [Frodo](https://github.com/android10/frodo) - Android Library for Logging RxJava Observables and Subscribers.
+* [RxPartialApplication](https://github.com/pakoito/RxPartialApplication) - Simple partial application for FuncN and ActionN on RxJava.
+* [RxCurrying](https://github.com/pakoito/RxCurrying) - Simple currying for FuncN and ActionN on RxJava.
 
 ## Testing
 * [assertj-rx](https://github.com/ribot/assertj-rx) - AssertJ assertions for RxJava Observables.
