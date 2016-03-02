@@ -35,6 +35,7 @@ String and Byte operators for RxJava.
 * [RxPartialApplication](https://github.com/pakoito/RxPartialApplication) - Simple partial application for FuncN and ActionN on RxJava.
 * [RxCurrying](https://github.com/pakoito/RxCurrying) - Simple currying for FuncN and ActionN on RxJava.
 * [RxEither](https://github.com/eleventigers/rxeither) - Either type for RxJava.
+* [RxReplayingShare](https://github.com/JakeWharton/RxReplayingShare) - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
 
 ## Testing
 * [assertj-rx](https://github.com/ribot/assertj-rx) - AssertJ assertions for RxJava Observables.
