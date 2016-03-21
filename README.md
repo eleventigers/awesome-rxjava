@@ -20,6 +20,7 @@
 * [rxjava-jdbc](https://github.com/davidmoten/rxjava-jdbc) - Efficient execution and functional composition of database calls using jdbc and RxJava Observables.
 * [rxjava-file](https://github.com/davidmoten/rxjava-file) - RxJava observables for files including NIO events.
 * [RxTuples](https://github.com/pakoito/RxTuples) - Simple tuples to use with RxJava.
+* [RxAnimationBinding](https://github.com/blipinsk/RxAnimationBinding) - RxJava binding APIs for Android's animations.
 
 ## Utilities
 * [RxJavaAsyncUtil](https://github.com/ReactiveX/RxJavaAsyncUtil) - Async utilities for RxJava.
