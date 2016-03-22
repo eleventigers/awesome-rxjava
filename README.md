@@ -57,6 +57,14 @@ String and Byte operators for RxJava.
 
 * [RxMarbles](http://rxmarbles.com/) - Interactive diagrams of Rx Observables.
 
+## Community
+
+* [Google Group](http://groups.google.com/d/forum/rxjava)
+* [StackOverflow](http://stackoverflow.com/search?q=rx-java)
+* [`@RxJava` on Twitter](http://twitter.com/RxJava)
+* [`ReactiveX/RxJava` on Gitter](https://gitter.im/ReactiveX/RxJava)
+* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues)
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
