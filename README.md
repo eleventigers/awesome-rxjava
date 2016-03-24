@@ -46,6 +46,7 @@ String and Byte operators for RxJava.
 ## Guides
 
 * [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
+* [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) - An extensive tutorial on RxJava.
 
 ## Articles
 
