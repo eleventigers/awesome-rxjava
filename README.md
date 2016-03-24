@@ -43,7 +43,7 @@ String and Byte operators for RxJava.
 * [assertj-rx](https://github.com/ribot/assertj-rx) - AssertJ assertions for RxJava Observables.
 * [rxpresso](https://github.com/novoda/rxpresso) - Easy Espresso UI testing for Android applications using RxJava.
 
-## Samples
+## Guides
 
 * [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
 
